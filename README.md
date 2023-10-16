@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **career change, job hunting in the UK**
 
-- 📫 How to reach me **medium.ju@gmail.com**
+- 📫 How to reach me: **medium.ju@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/judy-giaying-chin/](https://www.linkedin.com/in/judy-giaying-chin/)
 
