@@ -19,7 +19,7 @@
   src="https://github.com/c20chin/c20chin/blob/main/images/stat.svg"
   alt="Alternative Text"
 />
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=c20chin&layout=donut)](https://github.com/c20chin/github-readme-stats)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
