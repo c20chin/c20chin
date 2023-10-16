@@ -15,6 +15,12 @@
 
 - ⚡ Fun fact **I have memories from 1 year old.**
 
+<img
+  src="https://github.com/c20chin/c20chin/blob/main/images/stat.svg"
+  alt="Alternative Text"
+/>
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/jyinlondon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jyinlondon" height="30" width="40" /></a>
