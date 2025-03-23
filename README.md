@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Judy</h1>
-<h3 align="center">A passionate software developer from Taiwan 🇹🇼, currently working & living in the UK 🇬🇧</h3>
+<h3 align="center">A software developer from Taiwan 🇹🇼, currently working & living in the Netherlands 🇳🇱</h3>
 
 - 🌱 I’m currently learning **Java, C#**
 
@@ -7,7 +7,7 @@
 
 - 📝 I regularly write articles on [https://medium.com/@.ju](https://medium.com/@.ju)
 
-- 💬 Ask me about **career change, job hunting in the UK**
+- 💬 Ask me about **career change, job hunting in the UK/Netherlands**
 
 - 📫 How to reach me: **medium.ju@gmail.com**
 
